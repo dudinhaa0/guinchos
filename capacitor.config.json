@@ -1,0 +1,6 @@
+{
+  "appId": "br.com.guinchos24h.app",
+  "appName": "Guinchos24h",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

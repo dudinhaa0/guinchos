@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Guinchos24h</string>
+    <string name="title_activity_main">Guinchos24h</string>
+    <string name="package_name">br.com.guinchos24h.app</string>
+    <string name="custom_url_scheme">br.com.guinchos24h.app</string>
+</resources>
