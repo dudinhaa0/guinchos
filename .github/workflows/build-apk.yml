@@ -34,6 +34,8 @@ jobs:
 
       - name: Sincronizar Capacitor
         run: node ./node_modules/@capacitor/cli/bin/capacitor sync android
+        env:
+          CAPACITOR_BUILD: 'true'
 
       - name: Dar permissão ao Gradle
         run: chmod +x android/gradlew
